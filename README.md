@@ -1,3 +1,7 @@
+Het werkdocument van het mim-fbm staat hier:
+<https://geonovum.github.io/mim-fbm>
+
+
 ## ReSpec template instructies
 
 ReSpec is een tool om html en pdf documenten te genereren op basis van markdown content.
