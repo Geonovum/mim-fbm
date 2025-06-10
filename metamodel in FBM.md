@@ -1,4 +1,4 @@
-# Metamodel in LD
+# Metamodel in Fact-Based Modelling
 
 ## Inleiding
 
