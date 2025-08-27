@@ -37,7 +37,7 @@ Let's now introduce the predicates. We will have two predicates:
 
 - The first predicate places the roles in the order {employee, employer}, this predicate has two readings:
   - The reading ".. works for .." (abbreviated to "works for" as in binary fact types an infix predicate reading is expected)
-  - The reading ".. has employee .." (abbreviated to "has employee")
+  - The reading ".. has employer .." (abbreviated to "has employer")
 - The second predicate places the roles in the order {employer, employee}, this predicate has one reading:
   - The reading ".. has employee .." (abbreviated to "has employee")
 
